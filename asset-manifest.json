@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee7dc756.css",
-    "main.js": "/static/js/main.0b7d7dc2.js",
-    "static/js/146.f7cb469d.chunk.js": "/static/js/146.f7cb469d.chunk.js",
-    "index.html": "/index.html",
-    "main.ee7dc756.css.map": "/static/css/main.ee7dc756.css.map",
-    "main.0b7d7dc2.js.map": "/static/js/main.0b7d7dc2.js.map",
-    "146.f7cb469d.chunk.js.map": "/static/js/146.f7cb469d.chunk.js.map"
+    "main.css": "/codeleap-network/static/css/main.ee7dc756.css",
+    "main.js": "/codeleap-network/static/js/main.593fe927.js",
+    "static/js/146.f7cb469d.chunk.js": "/codeleap-network/static/js/146.f7cb469d.chunk.js",
+    "index.html": "/codeleap-network/index.html",
+    "main.ee7dc756.css.map": "/codeleap-network/static/css/main.ee7dc756.css.map",
+    "main.593fe927.js.map": "/codeleap-network/static/js/main.593fe927.js.map",
+    "146.f7cb469d.chunk.js.map": "/codeleap-network/static/js/146.f7cb469d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee7dc756.css",
-    "static/js/main.0b7d7dc2.js"
+    "static/js/main.593fe927.js"
   ]
 }
